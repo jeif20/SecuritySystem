@@ -1,7 +1,7 @@
 import RPi.GPIO as GPIO
 import time
-from picamera import PiCamera
-from datetime import datetime
+from picamera import PiCamera #library for raspberry pi camera
+from datetime import datetime 
 
 
 GPIO.setwarnings(False)
